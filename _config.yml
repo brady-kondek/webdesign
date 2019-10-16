@@ -1,5 +1,5 @@
 title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+url: "https://webdesign.bradykondek.ga"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -91,7 +91,7 @@ defaults:
 
 social_icons:
   - Facebook
-  - Instagram
+  - Instagram: bradykondekwebsitedesign
   - LinkedIn
   - Pinterest
   - Tumblr
