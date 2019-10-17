@@ -1,5 +1,5 @@
 ---
-name: 2019 Website Design Project
+name: 2019 TSA Website Design Project
 subtitle:
 external_url: https;//www.escapix.ml
 image_path: /uploads/escapix-logo.png
