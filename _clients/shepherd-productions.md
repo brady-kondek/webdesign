@@ -1,7 +1,7 @@
 ---
 name: Shepherd Productions
 subtitle:
-external_url: 'https://www.shepherdproductions.ga'
+external_url: 'https://shepherdproductions.bradykondek.ga'
 image_path: /uploads/shepherd-productions-logo.png
 ---
 
