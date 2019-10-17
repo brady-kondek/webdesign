@@ -7,7 +7,7 @@ image_path: /uploads/escapix-logo.png
 
 **<u>About:</u>**
 
-This website is a project for the TSA event Website Design. In this event, you are to make a website that follows a theme. During the time when this site was made, the theme was Escape Rooms. The website had to be a realistic site for an escape room company.
+This website was a project for the TSA event Website Design, in the year 2019. In this event, you are to make a website that follows a theme. During the time when this site was made, the theme was Escape Rooms. The website had to be a realistic site for an escape room company.
 
 **<u>Competition:</u>**
 
