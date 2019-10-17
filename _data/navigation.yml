@@ -3,7 +3,7 @@ links:
   link: /
 - name: Portfolio
   link: /portfolio/
-  - name: Team
+- name: Team
   link: /team/
 - name: Blog
   link: /blog/
