@@ -2,7 +2,7 @@
 name: Brady Kondek Radio Network
 subtitle:
 external_url: 'https://radio.bradykondek.ga'
-image_path: /uploads/b-bird.png
+image_path: /uploads/b-bird-small.png
 ---
 
 <u><strong>About:</strong></u>
