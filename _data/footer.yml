@@ -10,6 +10,9 @@
       link: /blog/
     - name: Contact
       link: /contact/
+    - name: Support
+      link: https://support.bradykondek.ga
+      new_window: true
 - title: Social
   links:
     - name: Instagram
