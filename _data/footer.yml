@@ -10,20 +10,16 @@
       link: /blog/
     - name: Contact
       link: /contact/
+   
+- title: Quick Links
+  links:
+    - name: Brady Kondek Home
+      link: https://www.bradykondek.ga
+      new_window: true
     - name: Support
       link: https://support.bradykondek.ga
-      new_window: true
-- title: Social
-  links:
-    - name: Instagram
-      link: https://instagram.com/bradykondekwebsitedesign
-      new_window: true
-    - name: GitHub
-      link: https://github.com/brady-kondek
-      social_icon: Github
-      new_window: true
-    - name: Dribbble
-      link: https://dribbble.com/bradykondek
-      social_icon: Dribbble
+      new_window: true  
+    - name: Themes
+      link: https://themes.bradykondek.ga
       new_window: true
       
