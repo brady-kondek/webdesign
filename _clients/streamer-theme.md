@@ -2,7 +2,7 @@
 name: Streamer Theme
 subtitle:
 external_url: 'https://www.streamertheme.ga'
-image_path: /uploads/favicon.png
+image_path: /uploads/twitch-logo.png
 ---
 
 <u><strong>About:</strong></u>
