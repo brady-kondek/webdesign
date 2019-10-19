@@ -7,7 +7,7 @@
     - name: Team
       link: /team/
     - name: Blog
-      link: /blog/
+      link: https://blog.bradykondek.ga/
     - name: Contact
       link: /contact/
    
