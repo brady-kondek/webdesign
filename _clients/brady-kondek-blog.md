@@ -1,7 +1,7 @@
 ---
 name: Brady Kondek Blog
 subtitle:
-external_url: 'https://blog.bradykondek.ga'
+external_url: 'https://blog.webdesign.bradykondek.ga'
 image_path: /uploads/b-bird-small-1.png
 ---
 
